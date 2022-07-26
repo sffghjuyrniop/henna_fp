@@ -10,7 +10,7 @@ body{
 }
 .cardcontainer{
 	width: 500px;
-	height: 960px;
+	height: 900px;
 	background:#cf6a87;
 	border-radius: 25px;
 	display: flex;
